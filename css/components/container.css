@@ -6,7 +6,7 @@
 .header-container, .review-container {
   width: 100%;
   display: flex;
-  justify-content: center; /* Centrer les enfants horizontalement */
-  align-items: center; /* Centrer les enfants verticalement */
-  flex-direction: column; /* Organise les enfants en colonne */
+  justify-content: center; 
+  align-items: center; 
+  flex-direction: column; 
 }
